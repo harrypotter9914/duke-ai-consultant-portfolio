@@ -43,6 +43,12 @@ const projectMeta = {
         tags: ["Python", "Computer Vision", "Deep Learning"],
         layout: "gallery"
     },
+    "wristmind.html": {
+        category: "watchOS AI Prototype",
+        summary: "A small-screen AI assistant test bed for provider setup, saved API keys, streaming responses, readable code output, and multimodal image replies.",
+        tags: ["AI UX", "watchOS", "Streaming", "Multimodal"],
+        layout: "gallery"
+    },
     "software-project3.html": {
         category: "Software Project",
         summary: "An Android note-taking app focused on clarity, efficiency, and everyday task management with lightweight interaction.",
