@@ -1,0 +1,11 @@
+# Yibo Wang | AI Research and Application Consultant Portfolio
+
+Targeted portfolio site for Duke Student Employment role: **Student AI Research and Application Consultant**.
+
+This repository preserves the original case-study pages and image assets from `My-personal-website`, while replacing the homepage with a role-specific portfolio narrative.
+
+GitHub Pages URL after deployment:
+
+`https://harrypotter9914.github.io/duke-ai-consultant-portfolio/`
+
+Convention portrait placeholders are in `assets/convention-selects/`.
